@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30690603975",
+    "project_id": "donordarah-1068c",
+    "storage_bucket": "donordarah-1068c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30690603975:android:7b4608c53918748cd95fe2",
+        "android_client_info": {
+          "package_name": "com.example.donordarah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoXlxrTh4aY9VNC7rEBjJ_2-2PtaBAeLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
